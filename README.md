@@ -1,4 +1,4 @@
-[Sales_DashBoard_Insights_using_PowerBI-main.zip](https://github.com/user-attachments/files/16115126/Sales_DashBoard_Insights_using_PowerBI-main.zip)[Sales_Dashboard_Insights (1).pdf](https://github.com/user-attachments/files/16115125/Sales_Dashboard_Insights.1.pdf)# SALES DASHBOARD INSIGHTS USING POWER BI
+# SALES DASHBOARD INSIGHTS USING POWER BI
 
 Developed by [Ameya Modak](https://www.linkedin.com/in/ameya-modak/).
 
