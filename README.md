@@ -17,7 +17,7 @@ A MySQL server database was integrated with Power BI for data analysis. The data
 
 ![1](https://github.com/ameya182003/Sales_Dashboard_Insights_using_PowerBI/assets/115361241/c93bacb0-158b-4eaf-bb31-579d7d1d8943)
 
-<img src="https://github.com/ameya182003/Sales_Dashboard_Insights_using_PowerBI/assets/115361241/c93bacb0-158b-4eaf-bb31-579d7d1d8943" width=720 height=1280>
+<img src="https://github.com/ameya182003/Sales_Dashboard_Insights_using_PowerBI/assets/115361241/c93bacb0-158b-4eaf-bb31-579d7d1d8943" width=360 height=640>
 
 
 # Profit Analysis
