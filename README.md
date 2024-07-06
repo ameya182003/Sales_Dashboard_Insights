@@ -10,15 +10,15 @@ A MySQL server database was integrated with Power BI for data analysis. The data
 
 # Key Insights
 
-![Sales_Dashboard_Insights-1](https://github.com/ameya182003/Sales_DashBoard_Insights_using_PowerBI/assets/115361241/46c8e55d-a25c-4ef9-a086-1e8a885b89c6)
+![Sales_Dashboard_Insights-1](https://github.com/ameya182003/Sales_Dashboard_Insights_using_PowerBI/assets/115361241/f39cf262-a2bc-4c4e-9354-f6d329e11cb8)
 
 # Profit Analysis
 
-![Sales_Dashboard_Insights-2](https://github.com/ameya182003/Sales_DashBoard_Insights_using_PowerBI/assets/115361241/0ec4b6c9-75a6-4422-b052-ef97ca06d463)
+![Sales_Dashboard_Insights-2](https://github.com/ameya182003/Sales_Dashboard_Insights_using_PowerBI/assets/115361241/1d168e66-0068-4a56-9e27-ff8fbc610437)
 
 # Performance Insights
 
-![Sales_Dashboard_Insights-3](https://github.com/ameya182003/Sales_DashBoard_Insights_using_PowerBI/assets/115361241/a8b7893d-2f8f-4139-b57d-8322c825eeb4)
+![Sales_Dashboard_Insights-3](https://github.com/ameya182003/Sales_Dashboard_Insights_using_PowerBI/assets/115361241/94876de7-922d-438a-8a57-f0c62db20b43)
 
 ## Feedback and Contributions
 
