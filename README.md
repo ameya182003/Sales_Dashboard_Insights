@@ -15,8 +15,6 @@ A MySQL server database was integrated with Power BI for data analysis. The data
 
 ## Mobile 
 
-![1](https://github.com/ameya182003/Sales_Dashboard_Insights_using_PowerBI/assets/115361241/c93bacb0-158b-4eaf-bb31-579d7d1d8943)
-
 <img src="https://github.com/ameya182003/Sales_Dashboard_Insights_using_PowerBI/assets/115361241/c93bacb0-158b-4eaf-bb31-579d7d1d8943" width=360 height=640>
 
 
@@ -27,7 +25,8 @@ A MySQL server database was integrated with Power BI for data analysis. The data
 
 ## Mobile
 
-![2](https://github.com/ameya182003/Sales_Dashboard_Insights_using_PowerBI/assets/115361241/0e1952ed-b1fb-437e-88ac-1df887ba4701)
+<img src="https://github.com/ameya182003/Sales_Dashboard_Insights_using_PowerBI/assets/115361241/0e1952ed-b1fb-437e-88ac-1df887ba4701" width=360 height=640>
+
 
 # Performance Insights
 ## Desktop
@@ -36,7 +35,8 @@ A MySQL server database was integrated with Power BI for data analysis. The data
 
 ## Mobile
 
-![3](https://github.com/ameya182003/Sales_Dashboard_Insights_using_PowerBI/assets/115361241/11cc0648-a669-4200-9a1b-4551ee8fb91e)
+<img src="https://github.com/ameya182003/Sales_Dashboard_Insights_using_PowerBI/assets/115361241/11cc0648-a669-4200-9a1b-4551ee8fb91e" width=360 height=640>
+
 
 ## Feedback and Contributions
 
