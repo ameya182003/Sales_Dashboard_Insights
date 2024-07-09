@@ -1,4 +1,4 @@
-# SALES DASHBOARD INSIGHTS USING POWER BI
+# SALES DASHBOARD INSIGHTS 
 
 Developed by [Ameya Modak](https://www.linkedin.com/in/ameya-modak/).
 
