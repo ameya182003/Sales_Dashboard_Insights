@@ -6,9 +6,9 @@ Developed by [Ameya Modak](https://www.linkedin.com/in/ameya-modak/).
 - Performed data analysis using SQL and Power BI to track revenue growth, year-over-year (YOY) trends, and region-wise sales performance.
 - The dashboard enabled quick, data-informed decisions, effectively displaying sales trends and potentially raising revenue by at least 7% in the next quarter.
 
-[Dashboard Link](https://app.powerbi.com/links/WJ7UpGLPJ5?ctid=7680f0c8-c74d-49f2-8cd4-c53d02e7533d&pbi_source=linkShare&bookmarkGuid=42de7928-5140-458e-9a9e-583f458273b2)
-
 # Dashboard Preview:
+
+[Live Dashboard Access](https://app.powerbi.com/view?r=eyJrIjoiNmQxYmRjOWYtZTkyNS00MWNlLWE5ZDctOGE0ZjM2OTIxM2Y4IiwidCI6IjdjOGYxYmIxLWI3ZWEtNDg4OS05ZDIxLWQ0NDNmOWI0MzYyMSJ9)
 
 # Key Insights
 ## Desktop
